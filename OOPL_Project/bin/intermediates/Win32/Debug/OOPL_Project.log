@@ -1,0 +1,6 @@
+﻿  SQL_Services.cpp
+  header.h
+  interface.cpp
+  Generating Code...
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  OOPL_Project.vcxproj -> C:\Users\strze\Dev\OOPL\visual_project\OOPL_Project\bin\Win32\Debug\OOPL_Project.exe
